@@ -1,14 +1,13 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Vernl Blog
+title: Vernl news, product updates, and industry insights
+description: Get the latest Vernl news, product updates, and industry insights delivered straight to you.
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - Vernl
+  - news
+  - product updates
+  - industry insights
 show_hero: true
 menu:
   - title: Home
